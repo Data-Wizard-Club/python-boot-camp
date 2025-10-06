@@ -1,5 +1,6 @@
-# 🧙‍♂️ Bienvenido al Bootcamp de Python 🐍  
-### De *Zero* ➜ *Padawan* ➜ *Jedi* ➜ *Maestro del Código*
+# 🧙‍♂️ Bienvenido al Bootcamp de Python 🐍
+
+## De *Zero* ➜ *Padawan* ➜ *Jedi* ➜ *Maestro del Código*
 
 > “El camino del desarrollador es como el de un Jedi: paciencia, práctica y pasión por el conocimiento.”  
 > — *Yoda, probablemente.*
@@ -12,7 +13,8 @@
 Este bootcamp te llevará paso a paso desde los fundamentos más básicos de Python hasta el dominio de herramientas y prácticas usadas por Data Engineers, Analysts y Developers en el mundo real.  
 
 Prepárate para:
-- Aprender a **pensar como programador** 🧠  
+
+- Aprender a **pensar como programador** 🧠
 - Dominar los fundamentos de **Python y sus librerías**  
 - Crear tus primeros **proyectos reales**  
 - Y finalmente… convertirte en un verdadero **Jedi del Código ⚔️**
@@ -37,6 +39,7 @@ Tu misión es avanzar completando los desafíos y proyectos propuestos.
 ## 💻 Requisitos previos
 
 No necesitas experiencia previa, solo:
+
 - Ganas de aprender
 - Un computador (Windows o Mac)
 - Internet y curiosidad infinita 🌌
@@ -75,6 +78,7 @@ Durante tu entrenamiento usarás:
 ## 🎯 Proyecto final: *El desafío del Consejo Jedi*
 
 Tu misión será desarrollar un **mini proyecto de análisis y automatización**:
+
 - Conexión a una API real
 - Limpieza y análisis de datos
 - Visualización de resultados
@@ -110,5 +114,4 @@ caer en errores, aprender de ellos y levantarte más sabio cada día.
 El camino hacia convertirte en **Jedi del Python** comienza ahora. ⚔️🐍
 
 ---
- 
 💫 *Data Wizard Academy — Edición 2025*
